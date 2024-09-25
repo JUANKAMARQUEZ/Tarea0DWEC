@@ -1,2 +1,2 @@
 # Tarea0DWEC
-Tarea de práctica de hitgub
+Tarea de práctica de GitHub
